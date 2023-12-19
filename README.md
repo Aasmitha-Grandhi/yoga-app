@@ -13,7 +13,7 @@ Design strategy
 
 2.After submitting details it will redirect to the login page.
 
-3.After login through email and password it will redirect to the payment page.
+3.login through email and password it will redirect to the payment page.
 
 4.After completing the payment we can view the details of the user and we can also edit the batch timing in the dashboard.
 
