@@ -45,13 +45,10 @@ CREATE TABLE IF NOT EXISTS `user_table` (
 --
 
 INSERT INTO `user_table` (`iId`, `vName`, `vEmail`, `vMobile`, `vPassword`, `iBatchId`, `iAge`, `dtAddedDate`) VALUES
-(1, 'PRAVEEN REDDY KAKUNURU', 'praveenreddy.kakunuru@hiddenbrains.in', '3252352352', '123456', NULL, 23, ''),
-(2, 'praveen', 'venkatrao@gmail.com', '3453463463', '483985348953', NULL, 23, '12PM-2PM'),
-(3, 'PRAVEEN REDDY KAKUNURU', 'venkatraeo@gmail.com', '485924653465745', 'ajergerw73rcbw', NULL, 23, '2PM-4PM'),
-(4, 'PRAVEEN REDDY KAKUNURU', 'venkastraeo@gmail.com', '485924653465745', 'ergnerjbejrkbyejyer', NULL, 23, '2PM-4PM'),
-(5, 'venkatrao', 'venkagfdgdftrao@gmail.com', '235235823523', '3289588275725', NULL, 252, '2PM-4PM'),
-(6, 'siva', 'ksivarama88@gmail.com', '75348563737436', '$2y$10$c1188cBeg3kktrHE4IDER.BmSeJwqvSchHfMr2O8K5/lkYKZy6ir.', NULL, 23, '4PM-6PM'),
-(7, 'papa', 'papa@gmail.com', '485924653465745', '123456', NULL, 18, '8AM-9AM');
+(1, 'aasu', 'aasu@gmail.com', '3453463463', '483985348953', NULL, 23, '12PM-2PM'),
+(2, 'venkatrao', 'venkagfdgdftrao@gmail.com', '235235823523', '3289588275725', NULL, 252, '2PM-4PM'),
+(3, 'siva', 'ksivarama88@gmail.com', '75348563737436', '$2y$10$c1188cBeg3kktrHE4IDER.BmSeJwqvSchHfMr2O8K5/lkYKZy6ir.', NULL, 23, '4PM-6PM'),
+(4, 'papa', 'papa@gmail.com', '485924653465745', '123456', NULL, 18, '8AM-9AM');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
