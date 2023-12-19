@@ -3,7 +3,7 @@ steps:
 
 step 1:designed a batabase.
 
-step 2:selected the technologie like HTML,CSS,Javascript,MySQL,PHP.
+step 2:selected the technologies like HTML,CSS,Javascript,MySQL,PHP.
 
 step 3:
 
