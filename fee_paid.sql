@@ -40,9 +40,9 @@ CREATE TABLE IF NOT EXISTS `fee_paid` (
 --
 
 INSERT INTO `fee_paid` (`iFee`, `vEmail`, `iprimary`) VALUES
-(599, 'venkastraeo@gmail.com', 1),
-(599, 'venkagfdgdftrao@gmail.com', 2),
-(599, 'venkagfdgdftrao@gmail.com', 3),
+(500, 'venkastraeo@gmail.com', 1),
+(500, 'venkagfdgdftrao@gmail.com', 2),
+(500, 'venkagfdgdftrao@gmail.com', 3),
 (500, 'papa@gmail.com', 6);
 COMMIT;
 
