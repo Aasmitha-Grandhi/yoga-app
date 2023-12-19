@@ -17,6 +17,6 @@ Design strategy
 
 4.After completing the payment we can view the details of the user and we can also edit the batch timing in the dashboard.
 
-5.after logout it will redirect to the login page.
+5.logout it will redirect to the login page.
 
 ![E-R diagram](https://github.com/Aasmitha-Grandhi/yoga-app/assets/142682191/71d989cc-8b2b-4f75-8e27-7623f2f93c91)
